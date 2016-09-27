@@ -1,0 +1,24 @@
+typography_spectrum: 0.81935542402789
+color:
+  brandStrength: 0.933471888769418
+  lightness: 0.7197985847014934
+  saturation: 0.027197649469599128
+  rhythmicContrast: 0.45469642663374543
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+github: true
+layout_spectrum: 0.11418277490884066
+author:
+  name: Alex Moore
+  email: alex@empoweredtechnology.net
+  url: 'http://empoweredtechnology.net'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aece1649-3bd0-4c62-82ed-b0a1ce46ad8c.png
+name: Empowered Technology
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/807340fa-3379-4d9e-9434-89256567c94a.png
+title: Make Technology Work for You
